@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "title": "Мозайка",
+      "body": "Увлекательное видео",
+      "videoSrc": "https://static.vecteezy.com/system/resources/previews/003/453/053/mp4/abstract-color-hexagon-intro-for-4k-video.mp4",
+      "videoPreview": "data:image/png;base64,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",
+      "datetime": "Friday 15,2023 22:05:28 PM",
+      "edited": true,
+      "id": 1
+    },
+    {
+      "title": "Видео номер 2",
+      "body": "Описание для видео номер 2",
+      "videoSrc": "https://static.vecteezy.com/system/resources/previews/001/935/346/mp4/retro-futuristic-arcade-vintage-game-intro-loop-free-video.mp4",
+      "videoPreview": "https://static.vecteezy.com/system/resources/thumbnails/001/935/346/small/retro-futuristic-arcade-vintage-game-intro-loop-free-video.jpg",
+      "datetime": "Friday 15,2023 22:14:05 PM",
+      "edited": true,
+      "id": 2
+    }
+  ]
+}
